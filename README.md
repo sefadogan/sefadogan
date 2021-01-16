@@ -4,7 +4,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -28,8 +28,8 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Sefa%20DOĞAN-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sefadogan@windowslive.com">
-  <img alt="Microsoft Outlook" src="https://img.shields.io/badge/sefadogan@windowslive.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <img alt="Microsoft Outlook" src="https://img.shields.io/badge/sefadogan@windowslive.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/>
 </a>
 <a href="https://steamcommunity.com/id/ChePunchkless" target="_blank">
-  <img alt="Steam" src="https://img.shields.io/badge/ChePunchkless%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
+  <img alt="Steam" src="https://img.shields.io/badge/ChePunchkless%20-%23000000.svg?&style=flat&logo=steam&logoColor=white"/>
 </a>
