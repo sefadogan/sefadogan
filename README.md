@@ -2,6 +2,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![React](https://img.shields.io/badge/-Csharp-05122A?&style=flat&logo=c-sharp)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&style=flat&logo=Flutter)&nbsp;
