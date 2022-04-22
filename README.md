@@ -33,5 +33,7 @@
   <img alt="Steam" src="https://img.shields.io/badge/ChePunchkless%20-%23000000.svg?&style=flat&logo=steam&logoColor=white"/>
 </a>
 
-[![HitCount](https://hits.dwyl.com/sefadogan/{project}.svg?style=flat-square)](http://hits.dwyl.com/sefadogan/{project})
+###
+
+![GitHub Views](https://komarev.com/ghpvc/?username=sefadogan&color=FAC151)
 
